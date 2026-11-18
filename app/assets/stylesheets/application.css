@@ -1,0 +1,18 @@
+
+body {
+  background-color: white;
+  font-family: Arial, sans-serif;
+}
+
+.question {
+  border-left: 5px solid #dddddd;
+  padding: 10px 20px;
+  margin: 25px 0;
+}
+
+.coach-answer {
+  background-color: #ffffe0;
+  border-left: 5px solid #dddddd;
+  padding: 10px 20px;
+  margin: 25px 0;
+}
